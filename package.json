@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [cordova-plugin-file (v4.3.2)](https://github.com/apache/cordova-plugin-file#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-file.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-file.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-file)",
+    "description": "#### basic test coverage for  [cordova-plugin-file (v4.3.2)](https://github.com/apache/cordova-plugin-file#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-file.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-file) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-file.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-file)",
     "devDependencies": {
         "cordova-plugin-file": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
